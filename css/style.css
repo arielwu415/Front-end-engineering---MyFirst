@@ -1,0 +1,172 @@
+.container { /*網頁寬度*/
+	max-width: 940px;
+	margin: auto;
+}
+
+div {
+	border-radius: 2.5px 2.5px;
+}
+
+body { /*背景顏色*/
+	background-color: #EDF2C5; 
+}
+
+h1 { /*標題*/
+	font-family: Arial black;
+	font-size: 45px;
+	color: #889C5B;
+	padding: 26px 0 0 0;
+	margin: 0 0 5px 0;
+}
+
+#click { /*右上選單*/
+	padding: 0 0 0 0;
+	margin: 50px 0 0 0;
+}
+
+#FBIG { /*圖片*/
+	margin: 0 8px 0 0;
+}
+
+#Loginjoin { /*LINE*/
+	height: 20px;
+	border-left: 1px solid #889C5B;
+	margin-top: 5px;
+}
+
+.text { /*login join*/
+	font-family: Arial black;
+	font-size: 12px;
+	color: #778A50;
+	border: 1px solid #889C5B;
+	border-radius: 2.5px 2.5px;
+	padding: 1px 9px 5px 7px;
+	margin: 0 0 0 9px;
+}
+
+#text1 {
+	width: 40px;
+	height: 12px;
+}
+#text2 {
+	width: 31px;
+	height: 12px;
+}
+
+/*並列*/
+.main-area {
+	float: left;
+}
+
+.sidebar {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+
+/*導覽列*/
+.site-nav{
+	height: 43px;
+	background-color: #889C5B;
+	font-family: Arial black;
+	font-size: 16px;
+	color: #EDF2C5;
+	margin-top: 0;
+	margin-bottom: 18px;
+	border-radius: 2.5px 2.5px;
+}
+.site-nav ul {
+	padding: 0px 0px 0px 0px;
+	margin: 0 0 0 0; /*影響導覽列文字在div裡的位置*/
+}
+.site-nav li {
+	list-style: none;
+	float: left;
+	padding: 10px 30px 0 30px;
+	margin: 0 0 0 0;
+}
+
+
+.main-img { /*主圖片*/
+	margin-top: 0px;
+
+}
+
+
+.title {
+
+	width: 413px;
+	background-color: #889C5B;
+	font-family: Arial black;
+	font-size: 16px;
+	color: #EDF2C5;
+	padding: 12px 0 12px 31px;
+	margin: 30px 0 15px 0;
+}
+
+
+.article {
+	width: 468px;
+	height: 140px;
+	margin-bottom: 34px;
+}
+
+.article img {
+	float: left;
+	width: 140px;
+	height: 140px;
+	padding: 0;
+	margin-right: 12px;
+}
+
+
+.contact {
+	width: 444px;
+	height: 140px;
+	background-color: #F5F8B9;
+	font-family: Arial;
+	font-size: 12px;
+	color: #898989;
+	
+}
+
+.paragraph {
+	width: 428px;
+	display: block;
+	border: 1px solid #F5F8B9;
+	padding: 0;
+	margin: 0 0 0 14px;
+}
+
+.paragraph p {
+	line-height: 1.4;
+}
+
+.line {
+	width: 413px;
+	margin: 0 0 0 15px;
+	border-top: 1px solid #898989;
+}
+
+.information {
+	display: block;
+	border: 1px solid #F5F8B9;
+	padding: 0;
+	margin: 0 15px;
+}
+
+footer {
+	font-family: Arial;
+	font-size: 12px;
+	color: #EDF2C5;
+	padding: 24px 463px;
+}
+
+.footer {
+	background-color: #889C5B;
+	width: 1260px;
+	height: 60px;
+	margin: auto;
+	border-radius: 0 0;
+}

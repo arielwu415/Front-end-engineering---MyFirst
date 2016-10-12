@@ -1,0 +1,12 @@
+Main Pumpkin:
+file:///D:/%E8%AA%B2%E7%A8%8B105%E4%B8%8A/%E5%89%8D%E7%AB%AF/week3/img/img_main_pumpkin.png
+Carrot:
+file:///D:/%E8%AA%B2%E7%A8%8B105%E4%B8%8A/%E5%89%8D%E7%AB%AF/week3/img/img_vegetables_carrot.png
+Corn:
+file:///D:/%E8%AA%B2%E7%A8%8B105%E4%B8%8A/%E5%89%8D%E7%AB%AF/week3/img/img_vegetables_corn.png
+Pepper:
+file:///D:/%E8%AA%B2%E7%A8%8B105%E4%B8%8A/%E5%89%8D%E7%AB%AF/week3/img/img_vegetables_pepper.png
+Facebook:
+file:///D:/%E8%AA%B2%E7%A8%8B105%E4%B8%8A/%E5%89%8D%E7%AB%AF/week3/img/btn_facebook.png
+Instagram:
+file:///D:/%E8%AA%B2%E7%A8%8B105%E4%B8%8A/%E5%89%8D%E7%AB%AF/week3/img/btn_instagram.png
